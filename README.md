@@ -3,7 +3,7 @@
 <h2 align="center">I'm Kurre Sai Lakshma Reddy</h2>
 <h3 align="center">console.log("👩‍🎓 Master's degree in Computer Science from Northumbria University")</h3>
 
-<p align="right" style="padding:10px; margin-top:10px;"> Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=kurresailakshmareddy&label=Profile%20views&color=0e75b6&style=flat" alt="KurresailakshmaReddy"/><p>
+<p align="left"> Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=kurresailakshmareddy&label=Profile%20views&color=0e75b6&style=flat" style="padding:10px; margin-top:10px;"align="right" alt="KurresailakshmaReddy"/><p>
 
 <!--
 **Kurresailakshmareddy/Kurresailakshmareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
