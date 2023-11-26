@@ -1,4 +1,12 @@
-### Hi there 👋
+<!-- # Kurre Sai Lakshma Reddy-->
+<h1 align="center">&lt;h1&gt;Hello World ..! &lt;/h1&gt;<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kurre Sai Lakshma Reddy</h1>
+<h3 align="center">console.log("👩‍🎓 Master's degree in Computer Science from Northumbria University")</h3>
+
+<p align="left"> Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=kurresailakshmareddy&label=Profile%20views&color=0e75b6&style=flat" alt="KurresailakshmaReddy" /> </p>
+
+
+
+
 
 <!--
 **Kurresailakshmareddy/Kurresailakshmareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
