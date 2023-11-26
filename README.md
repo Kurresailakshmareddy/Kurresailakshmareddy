@@ -5,19 +5,23 @@
 
 <p align="left" style="margin-top:40px;"> Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=kurresailakshmareddy&label=Profile%20views&color=0e75b6&style=flat" style="padding:10px; margin-top:20px;"align="right" alt="KurresailakshmaReddy"/><p>
 
-- 🔭 I’m currently working on a website [Haikase.ai]() 💻
+<h4 align= "left">&lt;ul&gt;
 
-- 🌱 I’m currently learning ``` React ```
+- &lt;li&gt;🔭 I’m currently working on a website [Haikase.ai]() 💻 &lt;/li&gt;
+
+- &lt;li&gt; 🌱 I’m currently learning ``` React ``` &lt;/li&gt;
   
-- 👨‍💻 All about me is at [My Website](https://kurresailakshmareddy.github.io/)
+- &lt;li&gt; 👨‍💻 All about me is at [My Website](https://kurresailakshmareddy.github.io/) &lt;/li&gt;
 
-- 💬 Ask me about ``` let topics = ["HTML","CSS","JavaScript","PHP","SQL","BootStrap","Git"] ```
+- &lt;li&gt; 💬 Ask me about ``` let topics = ["HTML","CSS","JavaScript","PHP","SQL","BootStrap","Git"] ``` &lt;/li&gt;
 
-- 📫 How to reach me **kurresailakshmareddy@gmail.com**
+- &lt;li&gt; 📫 How to reach me **kurresailakshmareddy@gmail.com** &lt;/li&gt;
 
-- 📄 My Work & Experiences [My Resume]()
+- &lt;li&gt; 📄 My Work & Experiences [My Resume]() &lt;/li&gt;
 
-### What are my projects 
+&lt;/ul&gt;</h4>
+
+<h3 align="left">My Featured projects : </h3>
 <code>[Haikase.ai]() 🧑‍💻</code>
 <code>[TLSW Support]()🧑‍💻</code>
 <code>[Happy Travels]() 🧑‍💻</code>
