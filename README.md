@@ -1,21 +1,28 @@
 <!-- # Kurre Sai Lakshma Reddy-->
 <h1 align="center">&lt;h1&gt;Hello World ..!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  &lt;/h1&gt; </h1>
 <h2 align="center">I'm Kurre Sai Lakshma Reddy</h2>
-<h3 align="center">console.log("👩‍🎓 Master's degree in Computer Science from Northumbria University")</h3>
+<h3 align="center">console.log("Master's degree in Computer Science from Northumbria University 👩‍🎓")</h3>
 
-<p align="left"> Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=kurresailakshmareddy&label=Profile%20views&color=0e75b6&style=flat" style="padding:10px; margin-top:10px;"align="right" alt="KurresailakshmaReddy"/><p>
+<p align="left"> Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=kurresailakshmareddy&label=Profile%20views&color=0e75b6&style=flat" style="padding:10px; margin-top:20px;"align="right" alt="KurresailakshmaReddy"/><p>
 
-<!--
-**Kurresailakshmareddy/Kurresailakshmareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a website [Haikase.ai]()
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ``` React ```
+  
+- 👨‍💻 All about me is at [My Website]([https://kurresailakshmareddy.github.io/])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+- 💬 Ask me about ``` let topics = ["HTML","CSS","JavaScript","PHP","SQL","BootStrap"] ```
+
+- 📫 How to reach me **kurresailakshmareddy@gmail.com**
+
+- 📄 My Work & Experiences [My Resume]()
+
+### What are my featured projects:question::space:
+<code>[Haikase.ai]()</code>
+<code>[TLSW Support]()</code>
+<code>[Happy Travels]()</code>
+
+<h3 align="left">Let's Connect 🤝</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kurre-sai-lakshma-reddy-8b0a60276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usha-vudatha" height="30" width="40" /></a>
+</p>
