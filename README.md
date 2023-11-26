@@ -1,7 +1,7 @@
 <!-- # Kurre Sai Lakshma Reddy-->
 <h1 align="center">&lt;h1&gt;Hello World ..!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  &lt;/h1&gt; </h1>
 <h2 align="center">&lt;h2&gt;I'm Kurre Sai Lakshma Reddy - Web Developer &lt;/h2&gt;</h2>
-<h3 align="center">console.log(" Master's degree in Computer Science from Northumbria University 🧑‍🎓")</h3>
+<h3 align="center">console.log(" Master's degree in Computer Science from Northumbria University 🧑‍🎓")</h3><br>
 
 <p align="left" style="margin-top:40px;"> Thank you for visiting my GitHub profile! <img src="https://komarev.com/ghpvc/?username=kurresailakshmareddy&label=Profile%20views&color=0e75b6&style=flat" style="padding:10px; margin-top:20px;"align="right" alt="KurresailakshmaReddy"/><p>
 
