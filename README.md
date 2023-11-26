@@ -7,23 +7,23 @@
 
 <h4 align= "left">&lt;ul&gt;
 
-🔭 &lt;li&gt; I’m currently working on a website [Haikase.ai]() 💻 &lt;/li&gt;
+🔭 &lt;li&gt; I’m currently working on a website ``` [Haikase.ai]() 💻 ``` &lt;/li&gt;
 
 🌱 &lt;li&gt;  I’m currently learning ``` React ``` &lt;/li&gt;
   
-👨‍💻 &lt;li&gt;  All about me is at [My Website](https://kurresailakshmareddy.github.io/) &lt;/li&gt;
+👨‍💻 &lt;li&gt;  All about me is at ``` [My Website](https://kurresailakshmareddy.github.io/) ``` &lt;/li&gt;
 
 💬 &lt;li&gt;  Ask me about ``` let topics = ["HTML","CSS","JavaScript","PHP","SQL","BootStrap","Git"] ``` &lt;/li&gt;
 
-📫 &lt;li&gt;  How to reach me **kurresailakshmareddy@gmail.com** &lt;/li&gt;
+📫 &lt;li&gt;  How to reach me ``` **kurresailakshmareddy@gmail.com** &lt;/li&gt; ```
 
-📄 &lt;li&gt; My Work & Experiences [My Resume]() &lt;/li&gt;
+📄 &lt;li&gt; My Work & Experiences ``` [My Resume]() ``` &lt;/li&gt;
 
 &lt;/ul&gt;</h4>
 
 <h3 align="left">My Featured projects : </h3>
 <code>[Haikase.ai]() 🧑‍💻</code>
-<code>[TLSW Support]()🧑‍💻</code>
+<code>[TLSW Support]()🧑‍💻 </code>
 <code>[Happy Travels]() 🧑‍💻</code>
 
 <h3 align="left">Languages and Tools</h3>
@@ -31,5 +31,5 @@
 
 <h3 align="left">Let's Connect 🤝</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kurre-sai-lakshma-reddy-8b0a60276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usha-vudatha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kurre-sai-lakshma-reddy-8b0a60276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KurresaiLakshmaredyy" height="30" width="40" /></a>
 </p>
