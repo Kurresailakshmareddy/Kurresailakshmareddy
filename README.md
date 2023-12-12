@@ -22,7 +22,7 @@
 &lt;/ul&gt;</h4>
 
 <h3 align="left">My Featured projects : </h3>
-<code>[Haikase.ai](https://github.com/Kurresailakshmareddy/Haikase.ai) 🧑‍💻</code>
+(https://github.com/Kurresailakshmareddy/Haikase.ai) <code>[Haikase.ai]🧑‍💻</code>
 <code>[TLSW Support](https://github.com/Kurresailakshmareddy/TLSW_Support)🧑‍💻 </code>
 <code>[Happy Travels](https://github.com/Kurresailakshmareddy/HappyTravels) 🧑‍💻</code>
 
